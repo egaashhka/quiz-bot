@@ -7,7 +7,7 @@ A Telegram chatbot built with Python and Django. The bot asks multiple-choice qu
 ## 📸 Screenshots
 
 **Welcome screen**
-![Start command]([screenshots/start.png](https://github.com/egaashhka/quiz-bot/blob/main/core/screenshots/start.png))
+![Start command](https://github.com/egaashhka/quiz-bot/blob/main/core/screenshots/start.png)
 
 **Quiz question with answer buttons**
 ![Quiz question](screenshots/quiz.png)
