@@ -7,22 +7,27 @@ A Telegram chatbot built with Python and Django. The bot asks multiple-choice qu
 ## 📸 Screenshots
 
 **Welcome screen**
+
 ![Start command](start.png)
 
 **Quiz question with answer buttons**
+
 ![Quiz question](quiz.png)
 
 **Correct / incorrect answer**
-![Answer result](answer1.png)
-![Answer result](answer2.png)
+
+![Answer result](answer1.png) ![Answer result](answer2.png)
 
 **Player statistics**
+
 ![Score](score.png)
 
 **Top players leaderboard**
+
 ![Top players](top.png)
 
 **Game history**
+
 ![History](history.png)
 
 ---
