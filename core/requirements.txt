@@ -1,0 +1,4 @@
+django>=4.2
+python-telegram-bot>=20.0
+requests>=2.31.0
+asgiref>=3.7.0
