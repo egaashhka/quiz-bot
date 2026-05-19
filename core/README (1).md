@@ -13,7 +13,8 @@ A Telegram chatbot built with Python and Django. The bot asks multiple-choice qu
 ![Quiz question](screenshots/quiz.png)
 
 **Correct / incorrect answer**
-![Answer result](screenshots/answer.png)
+![Answer result](screenshots/answer1.png)
+![Answer result](screenshots/answer2.png)
 
 **Player statistics**
 ![Score](screenshots/score.png)
